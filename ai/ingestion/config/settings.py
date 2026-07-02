@@ -1,0 +1,5 @@
+INPUT_FOLDER="data/input"
+
+OUTPUT_FOLDER="data/output"
+
+LANGUAGE="English"
